@@ -7,3 +7,5 @@
   - 以圖像化呈現數據在 github 上面
 - [YouTube Stats Card](https://github.com/dhyeythumar/youtube-stats-card)
   - 顯示自己 github 統計的資訊
+- [使用github發佈網站](https://www.youtube.com/watch?v=VcT2eYXJozs)
+  - 一分鐘內使用github隱藏功能發佈網站
