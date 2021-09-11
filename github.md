@@ -5,3 +5,5 @@
   - GitHub 首頁編輯的方法 (隱藏功能)
 - [GitHub stars Card](https://github.com/anuraghazra/github-readme-stats)
   - 以圖像化呈現數據在 github 上面
+- [YouTube Stats Card](https://github.com/dhyeythumar/youtube-stats-card)
+  - 顯示自己 github 統計的資訊
