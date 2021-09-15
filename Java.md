@@ -3,7 +3,9 @@
 ## 1. [DesignPattern](https://github.com/youlookwhat/DesignPattern)
 
 - Java 的 23 種設計模式
-- 實際上好像只有 22 種 ?!
+- ~~實際上好像只有 22 種 ?!~~
+
+- 抽象工廠模式與工廠模式放在一起了
 
 
 
@@ -42,3 +44,9 @@
 
 - 都寫在同一個 README.md 底下 (可以需要用蒐尋找自己需要的資料)
 - 大多以故事的方式，進行介紹
+
+
+
+## 7. [30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8)
+
+- 30 seconds to collect useful Java 8 snippet.
