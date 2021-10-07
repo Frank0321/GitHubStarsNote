@@ -16,8 +16,10 @@
 
 - 有不同的顯示風格
 
-  
 
+## 3. [Awesome GitHub Profile README](https://github.com/abhisheknaiidu/awesome-github-profile-readme#code-mode-)
+
+- 其他人 github readme 設計
 
 
 
