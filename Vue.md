@@ -11,3 +11,6 @@
 ## 3. [vue](https://github.com/vuejs/vue)
 - vue 官網
 
+## 4. [vuejs-playlist](https://github.com/iamshaunjp/vuejs-playlist)
+- [參考學習影片](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
+
